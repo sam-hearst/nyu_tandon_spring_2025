@@ -1,3 +1,6 @@
 # NYU Tandon Bridge Program
 
-This repo is all my work for the NYU Tandon Bridge Program. As I go through the program I will be adding all exercises to this repo.
+## TLDR
+
+My work is organized into each week. Generally each week will have my homework for that week, and that's about it. If there are additional materials then I add them. The syllabus for the entire course is present in the root directory.
+
