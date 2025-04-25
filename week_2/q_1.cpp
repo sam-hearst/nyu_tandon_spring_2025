@@ -10,7 +10,7 @@ int main() {
     int numPennies;
     int totalCents;
     int numDollars;
-    int numCents;
+    int modCents;
 
     cout << "Please enter number of coins:" << endl;
 
@@ -28,9 +28,9 @@ int main() {
 
     totalCents = (25 * numQuarters) + (10 * numDimes) + (5 * numNickels) + (1 * numPennies);
     numDollars = totalCents / CENTS_IN_A_DOLLAR;
-    numCents = totalCents % CENTS_IN_A_DOLLAR;
+    modCents = totalCents % CENTS_IN_A_DOLLAR;
 
-    cout << "The total is "<<numDollars<<" and "<<numCents<<" cents"<<endl;
+    cout << "The total is "<<numDollars<<" and "<<modCents<<" cents"<<endl;
     
     return 0;
 }
