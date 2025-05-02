@@ -28,3 +28,11 @@ d. $\{x \in \mathbb{N} \mid 0 \leq x \leq 1000 \text{ and x is an integer multip
 a. $2 \in X$ TRUE
 b. $ \{ 2 \} \subseteq X$ TRUE
 c. $ \{ 2 \} \in X$ FALSE
+d. $ 3 \in X$ FALSE
+e. $ \{1,2 \} \in X$ TRUE
+f. $ \{1,2\} \subseteq X$ TRUE
+g. $ \{2,4\} \subseteq X$ TRUE
+h. $ \{2,4\} \in X$ FALSE
+i. $ \{2,3\} \subseteq X$ FALSE
+j. $ \{2,3\} \in X$ FALSE
+k. $|X| = 7$ FALSE
